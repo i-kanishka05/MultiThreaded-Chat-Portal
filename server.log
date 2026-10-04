@@ -1,0 +1,44 @@
+[2026-10-04 14:55:38] SERVER_STARTED | Port: 5000
+[2026-10-04 14:56:27] USER_JOINED | Kanishka
+[2026-10-04 14:56:27] SYSTEM | Kanishka joined the chat.
+[2026-10-04 14:56:56] USER_JOINED | Krishna
+[2026-10-04 14:56:56] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:00:22] USER_LEFT | Krishna
+[2026-10-04 15:00:22] SYSTEM | Krishna left the chat.
+[2026-10-04 15:00:29] USER_LEFT | Kanishka
+[2026-10-04 15:00:29] SYSTEM | Kanishka left the chat.
+[2026-10-04 15:03:06] SERVER_STARTED | Port: 5000
+[2026-10-04 15:03:35] USER_JOINED | Kanishka
+[2026-10-04 15:03:35] SYSTEM | Kanishka joined the chat.
+[2026-10-04 15:03:58] USER_JOINED | Krishna
+[2026-10-04 15:03:58] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:04:44] MESSAGE | [15:04:44] Kanishka: hello Krishna
+[2026-10-04 15:07:55] SERVER_STARTED | Port: 5000
+[2026-10-04 15:09:35] USER_JOINED | Kanishka
+[2026-10-04 15:09:35] SYSTEM | Kanishka joined the chat.
+[2026-10-04 15:10:24] USER_JOINED | Krishna
+[2026-10-04 15:10:24] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:15:40] SERVER_STARTED | Port: 5000
+[2026-10-04 15:16:13] USER_JOINED | Kanishka
+[2026-10-04 15:16:13] SYSTEM | Kanishka joined the chat.
+[2026-10-04 15:16:32] USER_JOINED | Krishna
+[2026-10-04 15:16:32] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:18:56] SERVER_STARTED | Port: 5000
+[2026-10-04 15:19:16] USER_JOINED | Kanishka
+[2026-10-04 15:19:16] SYSTEM | Kanishka joined the chat.
+[2026-10-04 15:19:32] USER_JOINED | Krishna
+[2026-10-04 15:19:32] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:22:34] MESSAGE | [15:22:34] Krishna: hello kanishka
+[2026-10-04 15:24:55] SERVER_STARTED | Port: 5000
+[2026-10-04 15:25:15] USER_JOINED | Kanishka
+[2026-10-04 15:25:15] SYSTEM | Kanishka joined the chat.
+[2026-10-04 15:25:35] USER_JOINED | Krishna
+[2026-10-04 15:25:35] SYSTEM | Krishna joined the chat.
+[2026-10-04 15:25:57] MESSAGE | [15:25:57] Krishna: hello Kanishka
+[2026-10-04 15:26:55] PRIVATE_MESSAGE | [15:26:55] Kanishka -> Krishna: This is a private message
+[2026-10-04 15:28:07] USER_JOINED | Siya
+[2026-10-04 15:28:07] SYSTEM | Siya joined the chat.
+[2026-10-04 15:28:33] MESSAGE | [15:28:33] Siya: hello everyone
+[2026-10-04 15:30:21] USER_LEFT | Siya
+[2026-10-04 15:30:21] SYSTEM | Siya left the chat.
+[2026-10-04 15:31:13] MESSAGE | [15:31:13] Kanishka: javac *.java
